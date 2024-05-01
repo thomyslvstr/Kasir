@@ -3,3 +3,4 @@ Nama : Muhamad nasroi
 Kelas :2B
 nama david
 yoyoyyoyoy
+Thomy 2B
