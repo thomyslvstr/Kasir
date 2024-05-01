@@ -2,5 +2,4 @@
 Nama : Muhamad nasroi
 Kelas :2B
 nama david
-kelas 2b
-davidd
+unmer
