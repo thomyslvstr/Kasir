@@ -1,5 +1,2 @@
-# Kasir saya
-Nama : Muhamad nasroi
-Kelas :2B
-nama david
-yoyoyyoyoy
+#Hello world
+Go internasional
